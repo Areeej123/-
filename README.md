@@ -53,3 +53,5 @@ Finally, we run the following command on the Terminal
 
 rosdep update
 And with this, we have completed the process of installing the ROS robot operating system on the UBUNTU
+<img width="383" alt="png" src="https://user-images.githubusercontent.com/108256116/183362374-99f269fe-3738-4f20-9ab0-08b56356d10b.png">
+
